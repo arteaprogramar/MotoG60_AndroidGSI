@@ -1,2 +1,3 @@
-# MotoG60_AndroidGSI
-Moto G60 - Android GSI
+# Android GSI for Moto G60
+
+(Wiki)[https://github.com/arteaprogramar/MotoG60_AndroidGSI/wiki]
